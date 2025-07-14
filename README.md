@@ -5,7 +5,7 @@ Welcome to **Crypto Lab** — a real-time cryptocurrency dashboard built with [S
 - 🦎 [**CoinGecko API**](https://www.coingecko.com/en/api) — for live market data  
 - 📰 [**CoinDesk**](https://www.coindesk.com/), [**CoinTelegraph**](https://cointelegraph.com/), and [**CryptoSlate**](https://cryptoslate.com/) — for crypto news aggregation
 
-🔗 **Live App**: [your-username-crypto-lab.streamlit.app](https://your-username-crypto-lab.streamlit.app)  
+🔗 **Live App**: [your-username-crypto-lab.streamlit.app](https://crypto-lab-j9mhwjdqrxrtmqcti6xxuv.streamlit.app/)  
 📊 **Built with**: Python • Streamlit • Pandas • Matplotlib • RSS
 
 ---
@@ -27,7 +27,7 @@ Welcome to **Crypto Lab** — a real-time cryptocurrency dashboard built with [S
 1. **Clone the repo:**
 
    ```bash
-   git clone https://github.com/your-username/crypto-lab.git
+   git clone https://github.com/alexehrich/crypto-lab.git
    cd crypto-lab
    ```
 
